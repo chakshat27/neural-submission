@@ -1,0 +1,5 @@
+data/
+generated/
+*.mp4
+*.sqlite
+__pycache__/
